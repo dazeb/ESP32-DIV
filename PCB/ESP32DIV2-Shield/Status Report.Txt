@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32DIV2-Shield.PrjPcb]
+   Generated File[ESP32DIV2-Shield-pcb.TXT]
+   Generated File[ESP32DIV2-Shield-pcb.LDP]
+   Generated File[ESP32DIV2-Shield-pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:44:10 PM On 1/4/2026
