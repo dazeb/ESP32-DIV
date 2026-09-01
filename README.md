@@ -190,7 +190,7 @@ ESP32DIV consists of two boards:
 - **ILI9341 TFT Display** – 2.8" UI display
 - **LF33** – 3.3V regulator
 - **IP5306** – Lithium battery charging and protection
-- **CP2102** – USB to serial for flashing
+- **CP2102** – USB-to-serial for flashing
 - **PCF8574** – I/O expander for buttons
 - **SD Card Slot** – Stores logs and captured signals
 - **Push Buttons** – Navigation and interaction
@@ -233,7 +233,7 @@ ESP32DIV consists of two boards:
 </table>
 
 
-
+<div>&nbsp;</div>
 
 <!-- License --> 
 ## :warning: License
@@ -244,7 +244,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 
 <!-- Support & Contributions -->
-## 💬 Support & Contributions
+## Support & Contributions
 
 - 💬 Found a bug or have a feature request? Open an [Issue](https://github.com/cifertech/ESP32-DIV/issues)
 - ⭐ Like the project? Star the repo!
@@ -253,12 +253,10 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 
 <!-- Contact -->
-## :handshake: Contact 
+## Contact 
 
-▶ Support me on Patreon [patreon.com/cifertech](https://www.patreon.com/cifertech)
-
-CiferTech - [@twitter](https://twitter.com/techcifer) - CiferTech@gmali.com
-
-Project Link: [https://github.com/cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)
+- Support me on Patreon [patreon.com/cifertech](https://www.patreon.com/cifertech)
+- CiferTech - [@X](https://twitter.com/techcifer) - CiferTech@gmali.com
+- Project Link: [https://github.com/cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV)
 
  
